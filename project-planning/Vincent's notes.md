@@ -17,5 +17,3 @@
   - ! How to get location from user from browser / cookie
   - use wireframe to re-check required routes
 
-
-How do I get iphone to stop defaulting safari
